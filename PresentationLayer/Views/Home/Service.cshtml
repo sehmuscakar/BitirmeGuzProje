@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Service";
+    Layout = "~/Views/Shared/_MenuLayout.cshtml";
+}
+
+ <main id="main">
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Hizmetlerimiz</h2>
+          <ol>
+            <li><a href="/Home/Anasayfa">Anasayfa</a></li>
+            <li>Service</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="inner-page">
+      <div class="container">
+        <p>
+                @await Component.InvokeAsync("Service")
+        </p>
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+
+

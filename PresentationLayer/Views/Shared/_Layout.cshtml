@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+@await Html.PartialAsync("/Views/Partial/HeadPartial.cshtml")
+
+<body>
+ @await Component.InvokeAsync("Topbar")
+  <!-- ======= Header ======= -->
+@await Html.PartialAsync("/Views/Partial/HeaderPartial.cshtml")
+ @await Component.InvokeAsync("Hero")
+  <main id="main">
+    <!-- ======= About Section ======= -->
+     @await Component.InvokeAsync("BusinessModule")
+    <!-- ======= Menu Section ======= -->
+ 
+        @await Component.InvokeAsync("Menu")
+    <!-- ======= Specials Section ======= -->
+  @await Component.InvokeAsync("Service")
+
+@await Component.InvokeAsync("Gallery")
+    <!-- ======= Chefs Section ======= -->
+  @await Component.InvokeAsync("Team")
+  
+  </main><!-- End #main -->
+  <div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+    @await Component.InvokeAsync("Footer")
+@await Html.PartialAsync("/Views/Partial/ScriptPartial.cshtml")
+</body>
+
+</html>

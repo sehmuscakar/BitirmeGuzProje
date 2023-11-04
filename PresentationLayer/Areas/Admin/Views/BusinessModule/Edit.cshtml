@@ -1,0 +1,69 @@
+﻿@model DataAccessLayer.Entities.BusinessModule
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h4>Hakkımızda Güncelleme Paneli</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="@Model.RowOrder" class="form-control" type="hidden" />
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <input asp-for="ImageUrl" class="form-control" type="file"/>
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AboutTitle" class="control-label"></label>
+                <input asp-for="AboutTitle" class="form-control" />
+                <span asp-validation-for="AboutTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="About" class="control-label"></label>
+                <input asp-for="About" class="form-control" />
+                <span asp-validation-for="About" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MissionTitle" class="control-label"></label>
+                <input asp-for="MissionTitle" class="form-control" />
+                <span asp-validation-for="MissionTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mission" class="control-label"></label>
+                <input asp-for="Mission" class="form-control" />
+                <span asp-validation-for="Mission" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VisionTitle" class="control-label"></label>
+                <input asp-for="VisionTitle" class="form-control" />
+                <span asp-validation-for="VisionTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vision" class="control-label"></label>
+                <input asp-for="Vision" class="form-control" />
+                <span asp-validation-for="Vision" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+        
+            <div class="form-group">
+                <label asp-for="AppUserId" class="control-label"></label>
+                <input asp-for="AppUserId" class="form-control" />
+                <span asp-validation-for="AppUserId" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-outline-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div>
+    <a class="btn btn-secondary" asp-action="Index">Listeye Geri Dön</a>
+</div>
+
+

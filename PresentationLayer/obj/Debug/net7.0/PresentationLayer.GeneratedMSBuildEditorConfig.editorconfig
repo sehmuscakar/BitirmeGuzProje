@@ -1,0 +1,317 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PresentationLayer
+build_property.RootNamespace = PresentationLayer
+build_property.ProjectDir = C:\Users\Şehmus\Desktop\Bitirme Guz\BitimePojeGuz\PresentationLayer\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Şehmus\Desktop\Bitirme Guz\BitimePojeGuz\PresentationLayer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Booking/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va2luZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/BusinessModule/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnVzaW5lc3NNb2R1bGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/BusinessModule/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnVzaW5lc3NNb2R1bGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/BusinessModule/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnVzaW5lc3NNb2R1bGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/BusinessModule/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnVzaW5lc3NNb2R1bGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/ContactCompany/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdENvbXBhbnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/ContactCompany/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdENvbXBhbnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/ContactCompany/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdENvbXBhbnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/ContactCompany/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdENvbXBhbnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Gallery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FsbGVyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Gallery/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FsbGVyeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Gallery/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FsbGVyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Gallery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2FsbGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Hero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGVyb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Hero/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGVyb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Hero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGVyb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Hero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGVyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Login/ConfirmMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cQ29uZmlybU1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Login/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cRXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Login/Signİn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cU2lnbsSwbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/MenuCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUNhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/MenuCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUNhdGVnb3J5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/MenuCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUNhdGVnb3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/MenuCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUNhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Menu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Menu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Menu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/PostContact/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9zdENvbnRhY3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/PostContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9zdENvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Register/MyAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVnaXN0ZXJcTXlBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Register/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVnaXN0ZXJcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Service/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Service/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Team/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Team/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Team/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Anasayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbmFzYXlmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Partial/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFxIZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Partial/HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFxIZWFkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Partial/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFxTY3JpcHRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/BusinessModule/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnVzaW5lc3NNb2R1bGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/ContactList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Gallery/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2FsbGVyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Header/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Hero/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVyb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/MenuCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUNhdGVnb3J5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Service/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Team/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhbVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Components/Topbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG9wYmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/_MenuLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şehmus/Desktop/Bitirme Guz/BitimePojeGuz/PresentationLayer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xphr5dixgj

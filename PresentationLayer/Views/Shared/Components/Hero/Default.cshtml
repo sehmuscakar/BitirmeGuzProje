@@ -1,0 +1,22 @@
+﻿@model List<DataAccessLayer.Entities.Hero>
+<section id="hero" class="d-flex align-items-center">
+    <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                
+           
+            <div class="col-lg-8">
+                <h1>@item.Title1 <span>@item.Title2</span></h1>
+                <h2>@item.Description</h2>
+
+                <div class="btns">
+                    <a href="#menu" class="btn-menu animated fadeInUp scrollto">Menülerimiz</a>
+                    <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Rezervasyon Yap</a>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</section><!-- End Hero -->

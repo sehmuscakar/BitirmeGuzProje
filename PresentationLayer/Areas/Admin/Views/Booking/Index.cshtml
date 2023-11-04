@@ -1,0 +1,67 @@
+﻿@model IEnumerable<DataAccessLayer.Entities.Booking>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3>Rezervasyon Liste Paneli</h3>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Adı")
+            </th>
+            <th>
+                @Html.DisplayName("Telefon")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mail)
+            </th>
+            <th>
+                @Html.DisplayName("Rezervasyon Tarihi")
+            </th>
+            <th>
+                @Html.DisplayName("Kişi Sayısı")
+            </th>
+            <th>
+                @Html.DisplayName("Açıklama")
+            </th>
+            <th>
+                @Html.DisplayName("Sırası")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+               <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PeopleCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+               <td>
+                @Html.DisplayFor(modelItem => item.RowOrder)
+            </td>
+            <td>
+                    <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

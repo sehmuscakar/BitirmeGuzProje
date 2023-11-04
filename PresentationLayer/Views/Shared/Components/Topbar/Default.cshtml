@@ -1,0 +1,15 @@
+﻿@model List<DataAccessLayer.Entities.ContactCompany>
+
+ <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+        @foreach (var item in Model)
+        {
+
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-phone d-flex align-items-center"><span>@item.Phone</span></i>
+        <i class="bi bi-clock d-flex align-items-center ms-4"><span>@item.WorkDate</span></i>
+      </div>
+        }
+
+    </div>
+  </div>

@@ -1,0 +1,66 @@
+﻿@model List<DataAccessLayer.Entities.ContactCompany>
+<footer id="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-info">
+                        <h3>İletişim Bilgileri</h3>
+                        <p>
+                            <strong>Adres:</strong> @item.Address<br>
+                            <hr />
+                            <br />
+                            <strong>Telefon:</strong>@item.Phone<br>
+                            <br />
+                            <hr />
+                            <strong>Mail:</strong> @item.Mail<br>
+                            <hr />
+                        </p>
+                        <div class="social-links mt-3">
+                            <a href="@item.Twiter" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="@item.Facebook" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="@item.Instegram" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="@item.Skype" class="google-plus"><i class="bx bxl-skype"></i></a>
+                            <a href="@item.Linkedin" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+             
+                <div class="col-lg-2 col-md-6 footer-links">
+                    <h4>Hızlı bağlantılar</h4>
+                  <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/Home/Anasayfa">Anasayfa</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/Home/About">Hakkımızda</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/Home/Service">Hizmetler</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/Home/Team">Takım</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="Home/Contact">İletişim</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Menü &&A Rezervasyon</h4>
+                    <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#">Menülerimiz</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#">Rezervasyon Yap</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6 footer-newsletter">
+
+                    <h5> <a href="/Home/Anasayfa" class="logo me-auto"><img src="~/Img/@item.ImageUrl" alt="" class="img-fluid" width="350" height="250"></a></h5>
+
+                </div>
+              <div class="me-md-auto text-center text-md-start">
+            <div class="copyright">
+                        &copy; Copyright @DateTime.Now.Year <strong><span>Çiftlikköy Restaurant</span></strong>. Tüm Hakları Saklıdır.
+            </div>
+
+
+            </div>
+                }
+        </div>
+    </div>
+    </div>
+</footer><!-- End Footer -->

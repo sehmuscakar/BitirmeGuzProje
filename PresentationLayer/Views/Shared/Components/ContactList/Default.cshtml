@@ -1,0 +1,31 @@
+﻿@model List<DataAccessLayer.Entities.ContactCompany>
+<div class="col-lg-4">
+    @foreach (var item in Model)
+    {
+    <div class="info">
+        <div class="address">
+            <i class="bi bi-geo-alt"></i>
+            <h4>Adres:</h4>
+            <p>@item.Address</p>
+        </div>
+        <div class="open-hours">
+            <i class="bi bi-clock"></i>
+            <h4>Çalışma Saatlerimiz:</h4>
+            <p>
+                Pazartesi-Cuma && Cumartesi-Pazar:<br>
+                @item.WorkDate
+            </p>
+        </div>
+        <div class="email">
+            <i class="bi bi-envelope"></i>
+            <h4>Mail:</h4>
+            <p>@item.Mail</p>
+        </div>
+        <div class="phone">
+            <i class="bi bi-phone"></i>
+            <h4>Telefon:</h4>
+            <p>@item.Phone</p>
+        </div>
+    </div>
+    }
+</div>
